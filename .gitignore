@@ -1,0 +1,34 @@
+# sbt
+project/project/
+project/target/
+target/
+dist/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history/
+.cache/
+.lib/
+
+# intellij idea
+*.iml
+*.ipr
+*.iws
+.idea/
+out
+
+# scala
+target
+*.class
+*.log
+
+# other
+.history
+.scala_dependencies
+.cache-main
+bin/
+libexec/
+logs/
+project/*-shim.sbt
+.worksheet
